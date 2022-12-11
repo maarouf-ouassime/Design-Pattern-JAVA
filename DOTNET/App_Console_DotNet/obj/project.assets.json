@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Maarouf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Maarouf\\Documents\\Design Pattern JAVA\\DOTNET\\App_Console_DotNet\\FirstApp.csproj",
+      "projectName": "FirstApp",
+      "projectPath": "C:\\Users\\Maarouf\\Documents\\Design Pattern JAVA\\DOTNET\\App_Console_DotNet\\FirstApp.csproj",
+      "packagesPath": "C:\\Users\\Maarouf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maarouf\\Documents\\Design Pattern JAVA\\DOTNET\\App_Console_DotNet\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Maarouf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
